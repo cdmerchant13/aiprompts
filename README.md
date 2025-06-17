@@ -1,6 +1,6 @@
 # 🧠 AI Prompt Library
 
-A curated collection of prompts used with various AI tools and frameworks—including Open WebUI—for productivity, automation, and domain-specific tasks.
+A curated collection of prompts used with various AI tools and frameworks—including Open WebUI—for productivity, automation, and domain-specific tasks. We're going to utilize LLMs to improve workflows and cut the crap clogging up the AI-scape.
 
 These prompts are designed for:
 - 🩺 Clinical dictation and medical charting (built for my wife, a USAF physician)
@@ -9,14 +9,18 @@ These prompts are designed for:
 - 🔧 Experimenting with custom Open WebUI "models"
 
 ## 📁 Repo Structure
-/clinical/
+
+* /clinical/
 - soap-note-dictation.md
 - discharge-summary-prompt.md (pending)
-/ats/
+
+* /ats/
 - resumereviewer.md
-/devops/
+
+* /devops/
 - TBD
-/general/
+
+* /general/
 - system-prompt-boilerplates.md (pending)
 - ai-rewrite-editor.md (pending)
 
