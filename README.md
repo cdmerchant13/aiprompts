@@ -10,17 +10,17 @@ These prompts are designed for:
 
 ## 📁 Repo Structure
 
-* /clinical/
+/clinical/
 - soap-note-dictation.md
 - discharge-summary-prompt.md (pending)
 
-* /ats/
+/ats/
 - resumereviewer.md
 
-* /devops/
+/devops/
 - TBD
 
-* /general/
+/general/
 - system-prompt-boilerplates.md (pending)
 - ai-rewrite-editor.md (pending)
 
