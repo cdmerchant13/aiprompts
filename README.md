@@ -1,6 +1,6 @@
 # 🧠 AI Prompt Library
 
-A curated collection of prompts used with various AI tools and frameworks—including Open WebUI—for productivity, automation, and domain-specific tasks. We're going to utilize LLMs to improve workflows and cut the crap clogging up the AI-scape.
+A curated collection of prompts used with various AI tools and frameworks including Open WebUI for productivity, automation, and domain-specific tasks. We're going to utilize LLMs to improve workflows and cut the crap clogging up the AI-scape.
 
 These prompts are designed for:
 - 🩺 Clinical dictation and medical charting (built for my wife, a USAF physician)
@@ -38,4 +38,4 @@ This repo is intended to stay personal and curated, but feel free to fork or ada
 
 ---
 
-Built to solve real problems—by a technical strategist, not a prompt engineer™.
+Built to solve real problems by a technical strategist, not a prompt engineer.
